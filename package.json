@@ -1,0 +1,26 @@
+{
+  "name": "discord.js-select-menus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test/test.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JVOPINHO/Select-Menus-Discord.js.git"
+  },
+  "author": "JVOPINHO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JVOPINHO/Select-Menus-Discord.js/issues"
+  },
+  "homepage": "https://github.com/JVOPINHO/Select-Menus-Discord.js#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
